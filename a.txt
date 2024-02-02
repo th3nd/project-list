@@ -1,6 +1,6 @@
-projekt_1_video webserverprogrammering https://www.youtube.com/watch?v=f0vn5mwxqxw
-projekt_1_dokumentation webserverprogrammering url
-projekt_1_filer webserverprogrammering url
+projekt_1_video webserver_programmering https://www.youtube.com/watch?v=f0vn5mwxqxw
+projekt_1_dokumentation webserver_programmering url
+projekt_1_filer webserver_programmering url
 codecamp_profil _ https://www.freecodecamp.org/goldsrc
 projekt_planering planering_till_slutprojekt_i_webbdev2 https://raw.githubusercontent.com/th3nd/project-list/main/projekt%20planering.pdf
 slutprojekt väder_app https://th3nd.github.io/webdev2/
