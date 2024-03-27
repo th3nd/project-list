@@ -1,5 +1,5 @@
-sql_upg webserver_programmering https://docs.google.com/document/d/18vLF9YTzpBrxTQ7uLGlbQ_6t57T9PnIzmLdamhMtL84/edit?usp=sharing
-datamodellering_upg webserver_programmering https://docs.google.com/document/d/1mxPv9r92I5-Wx3z9YkcnTBekWL_qfh0uXPGxbQ0t3Ts/edit?usp=sharing
+sql_upg webserver_programmering https://raw.githubusercontent.com/th3nd/project-list/main/sql%20upg.pdf
+datamodellering_upg webserver_programmering https://raw.githubusercontent.com/th3nd/project-list/main/01.%20Datamodellering%20uppgifter.pdf
 projekt_1_video webserver_programmering https://www.youtube.com/watch?v=f0vn5mwxqxw
 projekt_1_dokumentation webserver_programmering https://raw.githubusercontent.com/th3nd/project-list/main/Dokumentation%20Slutprojekt.pdf
 projekt_1_filer webserver_programmering https://github.com/th3nd/loginform
