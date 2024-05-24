@@ -1,4 +1,5 @@
-slutprojekt_zip webserver_programmering https://cdn.discordapp.com/attachments/1236021559811112964/1243560690460000346/loginprojekt1_-_final.7z
+slutprojekt_zip webserver_programmering https://github.com/th3nd/project-list/raw/main/loginprojekt1%20-%20final.7z
+slutprojekt_video webserver_programmering https://www.youtube.com/watch?v=J7qLId_Zg70
 sql_upg webserver_programmering https://raw.githubusercontent.com/th3nd/project-list/main/sql%20upg.pdf
 datamodellering_upg webserver_programmering https://raw.githubusercontent.com/th3nd/project-list/main/01.%20Datamodellering%20uppgifter.pdf
 projekt_1_video webserver_programmering https://www.youtube.com/watch?v=f0vn5mwxqxw
