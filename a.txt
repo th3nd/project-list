@@ -1,5 +1,5 @@
 slutprojekt_zip webserver_programmering https://github.com/th3nd/project-list/raw/main/loginprojekt1%20-%20final.7z
-slutprojekt_video webserver_programmering https://www.youtube.com/watch?v=J7qLId_Zg70
+slutprojekt_video webserver_programmering https://youtu.be/J7qLId_Zg70?si=Cg-UKXcJHg8--UtX
 sql_upg webserver_programmering https://raw.githubusercontent.com/th3nd/project-list/main/sql%20upg.pdf
 datamodellering_upg webserver_programmering https://raw.githubusercontent.com/th3nd/project-list/main/01.%20Datamodellering%20uppgifter.pdf
 projekt_1_video webserver_programmering https://www.youtube.com/watch?v=f0vn5mwxqxw
